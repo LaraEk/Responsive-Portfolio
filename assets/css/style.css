@@ -162,6 +162,16 @@ footer {
     margin: -5% 18% 0 0;
   }
   
+  form {
+    height: 500px;
+    margin: 10px;
+    width: 80%;
+  }
+    
+  #makeitbig {
+    width: 95%;
+    height: 100px;
+
 }
 
 @media screen and (max-width: 768px) and (min-width: 640px) {
@@ -178,6 +188,16 @@ footer {
   nav {
     margin: -11% 8% 0 0;
   }
+  
+  form {
+    height: 500px;
+    margin: 10px;
+    width: 80%;
+  }
+    
+  #makeitbig {
+    width: 95%;
+    height: 100px;
 
 }
 
