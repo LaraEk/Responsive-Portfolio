@@ -1,2 +1,2 @@
 # Basic-Portfolio
-first assignment: basic portfolio
+Second Assignment for GW Coding Bootcamp: revamp basic portfolio to make it responsive.
